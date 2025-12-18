@@ -133,23 +133,12 @@ input:focus {
     border-bottom: 1px solid #fff;
 }
 
-button {
-    width: 100%;
-    padding: 12px;
-    margin-top: 10px;
-    border: none;
-    border-radius: 20px;
-    background: white;
-    color: black;
-    font-weight: 600;
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    cursor: pointer;
-    font-size: 13px;
-    transition: 0.3s;
-}
-
-button:hover {
-    background: #ccc;
-    transform: scale(1.02);
+    letter-spacing: 2px;
+    font-size: 22px;
+    color: #fff;
 }
